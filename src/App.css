@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  position: relative;
+  justify-content: center;
+}
+
+.Inputbox{
+  position: relative;
+  top: 30%;
+  margin-bottom: 50px;
+}
+
+.Divcontainer{
+  top: 30%;
+  position: relative;
+  margin: 0;
+}
+
